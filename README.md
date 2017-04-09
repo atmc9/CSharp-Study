@@ -2,4 +2,4 @@
 
 
 
-Delegate: A deligate is a type safe function pointer. 
+Delegate: A delegate is a type safe function pointer. 
